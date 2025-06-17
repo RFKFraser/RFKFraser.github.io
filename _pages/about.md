@@ -1,8 +1,14 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hey i'm Ronan, i’m a mechanical engineer and product designer with a focus on creating well-considered, functional tools, both physical and digital. My work sits at the intersection of engineering precision and design intuition, driven by a strong belief that good tools should be both effective and a pleasure to use.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Over the years, I’ve contributed to a range of projects—from early-stage prototyping to production ready systems, often working across disciplines to bring ideas from concept to reality. I’m particularly interested in solving complex problems with simple, elegant solutions, and I enjoy working hands-on throughout the development process.
+
+I’m currently based in Wellington, NZ, after just finishing up a 5-year sprint with Foundry Lab - trying to solve metal casting
+
+If you’re interested in collaborating or just want to chat, feel free to get in touch.
