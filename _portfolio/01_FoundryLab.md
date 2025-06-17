@@ -2,7 +2,6 @@
 title: Mechatronics Engineer - Foundry Lab
 collection: portfolio
 excerpt: "Summary of work from my time at Foundry Lab."
-
 header:
     image: /assets/images/foundrylab/team.webp
     teaser: /assets/images/foundrylab/dendrite.webp

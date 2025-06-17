@@ -11,7 +11,7 @@ header:
 I’ve always liked working with my hands, especially when it comes to giving new life to old things or building something functional from scratch. Here are a few furniture projects I’ve worked on recently.
 
 ### Kauri Drawers
-I found this set of drawers on Trade Me. They were in bad shape, someone had fitted them with clunky aftermarket handles, the wood was scratched and marked and the finish was totaled. 
+I found this set of drawers on Trade Me. They were in bad shape, someone had fitted them with clunky aftermarket handles, the wood was scratched and marked and the finish was totalled. 
 
 ![Drawers in a bad state](/assets/images/furniture/drawersBad.webp)
 
@@ -66,7 +66,7 @@ I sanded the timber back to remove some of the old paint and sharp edges, I left
 </div>
 
 ### Plywood Speaker Stands
-This project was a chance to try something a little more graphic. The speaker stands are heavily inspired by Tom Sachs, simple, direct construction, painted faces, plywood endgrain left exposed, and a shitload of holes. I used plywood for the build, keeping the forms clean and boxy. I wish i had used a higher quality ply so the endgrain would be a bit more consistant and clean, next time!
+This project was a chance to try something a little more graphic. The speaker stands are heavily inspired by Tom Sachs, simple, direct construction, painted faces, plywood end-grain left exposed, and a shitload of holes. I used plywood for the build, keeping the forms clean and boxy. I wish i had used a higher quality ply so the end-grain would be a bit more consistent and clean, next time!
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
