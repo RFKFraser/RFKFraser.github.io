@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Ronan Fraser"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.webp"
   bio    : "I like making things that work well and look good. Usually wrangling atoms but have been know to delve into the world of bits"
   links:
     - label: "Email"

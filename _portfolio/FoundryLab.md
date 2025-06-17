@@ -4,8 +4,8 @@ collection: portfolio
 excerpt: "Summary of work from my time at Foundry Lab."
 
 header:
-    image: /assets/images/FL_cover.jpg
-    teaser: /assets/images/foundrylab/dendrite.tif
+    image: /assets/images/FL_cover.webp
+    teaser: /assets/images/foundrylab/dendrite.webp
 ---
 
 As an early technical hire at Foundry Lab, I joined during the company’s formative years and had the rare opportunity to work across nearly every aspect of our hardware platform. I learned at an incredible pace, failed fast and often, and contributed to building novel systems that ultimately formed the backbone of a world-first metal casting process. The role demanded broad thinking, deep dives into detail, and the willingness to constantly iterate.
@@ -29,52 +29,52 @@ Below is a limited (NDA) gallery of photos from my time at foundry lab.
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/FeederCap/Feeder_cap.HEIC" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="/assets/images/FeederCap/Feeder_cap.webp" alt="Image 1" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Bottle cap</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/part.HEIC" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/part.webp" alt="Image 2" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Casting</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/particles.tif" alt="Image 3" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/particles.webp" alt="Image 3" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Powder</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/dendrite.tif" alt="Image 4" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/dendrite.webp" alt="Image 4" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Dendrite formation in A356</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/dropwatcher.png" alt="Image 5" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/dropwatcher.webp" alt="Image 5" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Drop formation</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/lathe.heic" alt="Image 6" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/lathe.webp" alt="Image 6" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Lathe</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/mill.heic" alt="Image 7" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/mill.webp" alt="Image 7" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Mill</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/lifter.heic" alt="Image 8" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/lifter.webp" alt="Image 8" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Build box transfer system</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/fluid.heic" alt="Image 9" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/fluid.webp" alt="Image 9" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Fluid management system mid-build</p>
   </div>
 
   <div style="flex: 1 1 calc(50% - 1rem); text-align: center;">
-    <img src="/assets/images/foundrylab/furnace.jpeg" alt="Image 10" style="width: 100%; height: auto;">
+    <img src="/assets/images/foundrylab/furnace.webp" alt="Image 10" style="width: 100%; height: auto;">
     <p style="margin-top: 0.5rem;">Microwave furnace mid-build</p>
   </div>
 </div>
