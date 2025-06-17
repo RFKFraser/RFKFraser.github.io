@@ -4,7 +4,7 @@ collection: portfolio
 excerpt: "Summary of work from my time at Foundry Lab."
 
 header:
-    image: /assets/images/FL_cover.webp
+    image: /assets/images/foundrylab/team.webp
     teaser: /assets/images/foundrylab/dendrite.webp
 ---
 
