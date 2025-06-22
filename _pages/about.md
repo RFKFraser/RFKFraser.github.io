@@ -13,5 +13,5 @@ I’ve contributed to a range of projects, from early-stage prototyping to produ
 I’m currently based in Wellington, NZ, and I'm just finishing up a 5-year sprint with Foundry Lab solving metal casting.
 
 I'm looking for new opportunities!
-I would love to sink my teeth into a robotics heavy role and that is where i will be actively pursuing work. 
+I would love to sink my teeth into a robotics-heavy role and that is where i will be actively pursuing work. 
 Reach out if you would like to hear more about my experience or just want to chat. 
