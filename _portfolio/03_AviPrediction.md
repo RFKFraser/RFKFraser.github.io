@@ -42,7 +42,7 @@ The DEM data comes in the form of two seperate .tif / GeoTiff files, meaning the
 The script to process the data was fairly straightforward:
 1.	Reads and stitches the DEMs together.
 2.	Calculates slope from elevation data.
-3.	Identifies steep areas (e.g., 40–60°) likely to pose avalanche risk.
+3.	Identifies steep areas (e.g. 25-55°) likely to pose avalanche risk.
 4.	Filters small or isolated regions or joins them together to focus on meaningful avalanche zones.
 5.	Overlays the risky areas on the topographic map for visualisation.
 
@@ -76,7 +76,7 @@ Lower Right ( 1828005.117, 5621997.617) (175d39' 9.01"E, 39d31'17.14"S)
 
 Comparing the coordinate points you can see that the Topo data is a subset lying entirely inside the combined DEM data. 
 Great - that allows me to just clip the DEM data to the Topo boundary to fix the overlay offset problem.
-Nice! Looks like we things are aligning much better now. 
+Nice! Looks like things are aligning much better now. 
 
 ![Risk Map](/assets/images/avi/redzone.webp)
 
@@ -92,13 +92,13 @@ The bad - it looks messy and harder to interpret.
  
 So i tried quantising into slope into bands:
 ```
-25-35 - yellow
-35-45 - red 
-45-55 - blue
+25-35° - yellow
+35-45° - red 
+45-55° - blue
 ```
 ![Risk Map banding](/assets/images/avi/banding.webp)
 
-I think i like this more. 
+I think i like this more. It maps risk *and* gives context to the risk.
 
 ### Thoughts and further development:
 I think it would be good to add some features that are more context aware such as: 
